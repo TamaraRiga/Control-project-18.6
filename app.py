@@ -1,4 +1,4 @@
-# Телеграмм-бот для конвертации валют
+# Телеграмм-бот для конвертации валют: @valuta_course_bot
 import telebot
 from config import keys, TOKEN
 from extensions import APIException, CurrencyConverter
